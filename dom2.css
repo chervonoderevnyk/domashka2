@@ -1,0 +1,80 @@
+.ukr {
+    background: #e6e60b;
+    width: 500px;
+    height: 800px;
+    padding: 10px;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+
+
+}
+
+.table1 {
+
+    height: 28%px;
+    background: cornflowerblue;
+    padding: 10px;
+}
+
+.box {
+    width: 99.9%;
+    height: 23%;
+    display: flex;
+    justify-content: space-between;
+    background: #e6e60b;
+    margin-top: 10px;
+
+}
+
+.table2 {
+    width: 28%;
+    height: 89.5%;
+    background: slateblue;
+    padding: 10px;
+}
+
+.table3 {
+    width: 28%;
+    height: 89.5%;
+    background: slateblue;
+    padding: 10px;
+}
+
+.table4 {
+    width: 28%;
+    height: 89.5%;
+    background: slateblue;
+    padding: 10px;
+}
+
+.table5 {
+    height: 49.5%;
+    background: cornflowerblue;
+    margin-top: 10px;
+
+}
+
+.aaa2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 130px;
+
+}
+
+.aaa1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 150px;
+
+}
+
+.aaa3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 350px;
+}
+
